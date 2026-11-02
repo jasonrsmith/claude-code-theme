@@ -1,7 +1,17 @@
-﻿# claude-code-theme
+# claude-code-theme
 
-My Claude Code setup.
+A T3 Code custom theme that matches the Claude Code colors.
 
-- `settings.json` - built-in theme (`dark`). Merge into `~/.claude/settings.json`.
-- `output-styles/wait-what.md` - custom output style **Wait What**. Copy to `~/.claude/output-styles/`, then run `/config` and select it as the output style.
+## Install
 
+1. Copy `themes/claude-code.json` to `%USERPROFILE%\.t3\userdata\themes\`.
+2. In T3 Code, open Settings > Appearance and select **Claude Code**.
+3. Set contrast to 100. Other values shift the colors.
+
+## Related T3 Code settings
+
+These are not stored in the theme file. They are in `client-settings.json`:
+
+- `appearanceContrast`: `100`
+- `fontFamilySans`: `Segoe UI`
+- `fontSizeInterface`: `14`
