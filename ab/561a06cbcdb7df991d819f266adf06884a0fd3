@@ -1,0 +1,21 @@
+themes/claude-code.json
+  s_e1cc5eb3c8d18e::t_37d4308a842925 1-68
+README.md
+  s_e1cc5eb3c8d18e::t_10ac90bdf50cc2 1,3,5,7-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ab561a06cbcdb7df991d819f266adf06884a0fd3",
+  "prompts": {},
+  "sessions": {
+    "s_e1cc5eb3c8d18e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0166d878-802c-400d-a94a-c34b7a8102f7",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Jason Smith <eastcoastj@gmail.com>"
+    }
+  }
+}
