@@ -1,0 +1,16 @@
+README.md
+  h_e87b3f5ffe10fb 3-6
+output-styles/wait-what.md
+  h_e87b3f5ffe10fb 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9b56e06526f60911d2218573f719b9db5ec35b97",
+  "prompts": {},
+  "humans": {
+    "h_e87b3f5ffe10fb": {
+      "author": "Jason Smith <eastcoastj@gmail.com>"
+    }
+  }
+}
