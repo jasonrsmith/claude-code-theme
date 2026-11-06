@@ -1,0 +1,19 @@
+README.md
+  s_91d0d127174db5::t_f245e3ad7134cb 7,13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "92a07e56655209e5c7d23fa03f7ef9febe6e13a6",
+  "prompts": {},
+  "sessions": {
+    "s_91d0d127174db5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "70e5b4e6-4404-47cb-b159-e21e9a010daf",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Jason Smith <eastcoastj@gmail.com>"
+    }
+  }
+}
